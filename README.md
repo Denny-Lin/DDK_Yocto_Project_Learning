@@ -6,7 +6,7 @@ The Yocto Project (YP) is an open source collaboration project that helps develo
 ## What is Poky?
 Poky is a distribution of the Yocto Project.</br>
 It is simillar to linux that has many distributions, such as Ubuntu, Debian. </br>
-Poky uses OpenEmbedded(oe) Build System that includes "BitBake" and "OpenEmbedded Core". </br>
+Poky uses "OpenEmbedded(oe) Build System" that includes "BitBake" and "OpenEmbedded Core". </br>
 
 ## What is BitBake?
 make is to makefile what bitbake is to recipe. </br>
