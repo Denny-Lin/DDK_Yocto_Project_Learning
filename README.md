@@ -8,6 +8,10 @@ Poky is a distribution of the Yocto Project.</br>
 It is simillar to linux that has many distributions, such as Ubuntu, Debian. </br>
 Poky uses OpenEmbedded(oe) Build System that includes "BitBake" and "OpenEmbedded Core". </br>
 
+## What is BitBake?
+make is to makefile what bitbake is to recipe. </br>
+... </br>
+
 # References
 1. https://www.yoctoproject.org/learn/
 2. https://www.yoctoproject.org/software-item/poky/
