@@ -3,7 +3,7 @@ The Yocto Project (YP) is an open source collaboration project that helps develo
 
 # Let us get started
 
-## What is Poky
+## What is Poky?
 https://www.yoctoproject.org/software-item/poky/ </br>
 
 # References
