@@ -10,7 +10,6 @@ Poky uses "OpenEmbedded(oe) Build System" that includes "BitBake" and "OpenEmbed
 
 ## What is BitBake?
 make is to makefile what bitbake is to recipe. </br>
-... </br>
 
 ## Download Poky
 Clone poky from the paths below in https://git.yoctoproject.org/poky/ . </br>
