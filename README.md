@@ -26,3 +26,4 @@ git clone -b kirkstone git://git.yoctoproject.org/poky.git
 # References
 1. https://www.yoctoproject.org/learn/
 2. https://www.yoctoproject.org/software-item/poky/
+3. https://docs.yoctoproject.org/brief-yoctoprojectqs/index.html
