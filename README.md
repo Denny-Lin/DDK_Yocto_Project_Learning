@@ -21,6 +21,10 @@ Now, we use "RELEASE YP CORE - KIRKSTONE 4.0.1 - 2022.05.20" . </br>
 ```git
 git clone -b kirkstone git://git.yoctoproject.org/poky.git
 ```
+
+Below is the original poky folder. </br>
+![Screen Shot 2022-06-12 at 9 55 09 PM](https://user-images.githubusercontent.com/67073582/173236667-ab4032fa-6053-4a67-a886-63299ee1aee9.png)
+
 ... </br>
 
 # References
