@@ -27,7 +27,7 @@ Below is the original poky folder. </br>
 
 ... </br>
 
-![Screen Shot 2022-06-12 at 10 07 31 PM](https://user-images.githubusercontent.com/67073582/173237167-8466a88b-f9f9-48da-959c-592728abc24f.png)
+![Screen Shot 2022-06-12 at 10 10 38 PM](https://user-images.githubusercontent.com/67073582/173237300-11102460-dcc3-46d5-8154-3d0d85a7ed2e.png)
 
 ... </br>
 
