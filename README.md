@@ -27,6 +27,10 @@ Below is the original poky folder. </br>
 
 ... </br>
 
+![Screen Shot 2022-06-12 at 10 07 31 PM](https://user-images.githubusercontent.com/67073582/173237167-8466a88b-f9f9-48da-959c-592728abc24f.png)
+
+... </br>
+
 # References
 1. https://www.yoctoproject.org/learn/
 2. https://www.yoctoproject.org/software-item/poky/
