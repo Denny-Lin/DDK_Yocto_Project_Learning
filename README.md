@@ -14,8 +14,14 @@ make is to makefile what bitbake is to recipe. </br>
 
 ## Download Poky
 Clone poky from the paths below in https://git.yoctoproject.org/poky/ . </br>
+
 ![Screen Shot 2022-06-12 at 8 56 46 PM](https://user-images.githubusercontent.com/67073582/173234328-8912380c-743b-4a31-8814-5de7b844441f.png) </br>
 
+Poky also have different versions, such as ,Release 4.0 (kirkstone), Release 3.4 (honister) and Release 3.3 (hardknott). </br>
+Now, we use "RELEASE YP CORE - KIRKSTONE 4.0.1 - 2022.05.20" . </br>
+```git
+git clone -b kirkstone git://git.yoctoproject.org/poky.git
+```
 ... </br>
 
 # References
