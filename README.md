@@ -13,7 +13,7 @@ make is to makefile what bitbake is to recipe. </br>
 ... </br>
 
 ## Download Poky
-Clone poky from the paths below in https://git.yoctoproject.org/poky/ </br>
+Clone poky from the paths below in https://git.yoctoproject.org/poky/ . </br>
 ![Screen Shot 2022-06-12 at 8 56 46 PM](https://user-images.githubusercontent.com/67073582/173234328-8912380c-743b-4a31-8814-5de7b844441f.png) </br>
 
 ... </br>
