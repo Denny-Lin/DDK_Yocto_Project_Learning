@@ -26,8 +26,10 @@ Below is the original poky folder. </br>
 ![Screen Shot 2022-06-12 at 9 55 09 PM](https://user-images.githubusercontent.com/67073582/173236667-ab4032fa-6053-4a67-a886-63299ee1aee9.png)
 
 ## Enable BitBake
-Use the following command to enable bitbake instructoin. </br>
-... </br>
+Use the following command to enable instruction of bitbake. </br>
+```sh
+source oe-init-build-env
+```
 
 ![Screen Shot 2022-06-12 at 10 10 38 PM](https://user-images.githubusercontent.com/67073582/173237300-11102460-dcc3-46d5-8154-3d0d85a7ed2e.png)
 
