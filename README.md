@@ -37,6 +37,9 @@ source oe-init-build-env
 ## Run BitBake
 ... </br>
 
+## What is recipes?
+... </br>
+
 # References
 1. https://www.yoctoproject.org/learn/
 2. https://www.yoctoproject.org/software-item/poky/
