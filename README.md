@@ -50,3 +50,5 @@ base.bbclass has many tasks. </br>
 2. https://www.yoctoproject.org/software-item/poky/
 3. https://docs.yoctoproject.org/brief-yoctoprojectqs/index.html
 4. https://www.yoctoproject.org/software-overview/downloads/
+5. https://docs.yoctoproject.org/ref-manual/classes.html
+6. 
