@@ -35,9 +35,14 @@ source oe-init-build-env
 
 
 ## Run BitBake
+```sh
+source 
+```
 ... </br>
 
 ## What is recipes?
+Each recipe implicitly inherits base.bbclass. </br>
+base.bbclass has many tasks. </br>
 ... </br>
 
 # References
