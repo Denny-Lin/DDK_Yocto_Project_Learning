@@ -44,7 +44,7 @@ source
 ```
 ... </br>
 
-## What is recipes?
+## What is recipe?
 Each recipe implicitly inherits base.bbclass that has many tasks, and each task is similar to a function(). </br>
 If we use bitbake to run all the recipes or specified recipe, the running recipe(s) will do all the tasks implemented by the base.bbclass. </br>
 If we do not like the task made by default in base.bbclass, we can override this task in our recipe. </br>
