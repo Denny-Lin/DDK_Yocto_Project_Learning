@@ -49,8 +49,12 @@ bitbake [recipe]
 Recipes are denoted by the file extension .bb . </br>
 Each recipe implicitly inherits base.bbclass that has many tasks, and each task is similar to a function(). </br>
 If we use bitbake to run all the recipes or specified recipe, the running recipe(s) will do all the tasks implemented by the base.bbclass. </br>
+Below are the default sequence of all the recipes: </br>
+1. do_
+2. do_
+
 Otherwise, if we do not like the task made by default in base.bbclass, we can override or prohibit this task in our recipe. </br>
-Below is an example. </br>
+Here is an example. </br>
 
 ```bb
 ...
