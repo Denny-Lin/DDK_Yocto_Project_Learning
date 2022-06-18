@@ -36,15 +36,17 @@ source oe-init-build-env
 
 ## Run BitBake
 ```sh
-source 
+bitbake core-image-sato
 ```
 
 ```sh
-source 
+bitbake -s 
+bitbake [recipe]
 ```
 ... </br>
 
 ## What is recipe?
+Recipes are denoted by the file extension .bb </br>
 Each recipe implicitly inherits base.bbclass that has many tasks, and each task is similar to a function(). </br>
 If we use bitbake to run all the recipes or specified recipe, the running recipe(s) will do all the tasks implemented by the base.bbclass. </br>
 Otherwise, if we do not like the task made by default in base.bbclass, we can override or prohibit this task in our recipe. </br>
