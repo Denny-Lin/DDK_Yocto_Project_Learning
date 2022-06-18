@@ -38,6 +38,7 @@ source oe-init-build-env
 ```sh
 bitbake core-image-sato
 ```
+![Screen Shot 2022-06-19 at 2 11 59 AM](https://user-images.githubusercontent.com/67073582/174451278-e5262ef2-7bbf-4c9f-aecc-5e101e9893a1.png)
 
 ```sh
 bitbake -s 
