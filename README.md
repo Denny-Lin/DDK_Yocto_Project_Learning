@@ -54,7 +54,7 @@ Below are the default execution sequence of all the recipes: </br>
 2. do_
 
 Otherwise, if we do not like the task made by default in base.bbclass, we can override or prohibit this task in our recipe. </br>
-Here is an example. </br>
+Here is an example of .bb with overrided and prohibited tasks. </br>
 
 ```bb
 ...
