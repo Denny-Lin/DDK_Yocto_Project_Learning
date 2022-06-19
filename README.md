@@ -49,7 +49,7 @@ bitbake -s
 
 ![Screen Shot 2022-06-19 at 1 17 10 PM](https://user-images.githubusercontent.com/67073582/174467030-5bee5cf5-79c9-483e-a2de-983fe9ea884e.png)
 
-We can use this command to execute the specified recipe found by the upon command. </br>
+We can use this command to execute the specified recipe found by the above command. </br>
 
 ```sh
 bitbake [recipe]
