@@ -40,13 +40,21 @@ bitbake core-image-sato
 ```
 ![Screen Shot 2022-06-19 at 2 11 59 AM](https://user-images.githubusercontent.com/67073582/174451278-e5262ef2-7bbf-4c9f-aecc-5e101e9893a1.png)
 
+![Screen Shot 2022-06-19 at 1 10 50 PM](https://user-images.githubusercontent.com/67073582/174466913-b0454124-394c-4825-9f0a-7dffe0764138.png)
+
+Use the command below to show all the recipes in this poky. </br>
 ```sh
 bitbake -s 
+```
+
+![Screen Shot 2022-06-19 at 1 17 10 PM](https://user-images.githubusercontent.com/67073582/174467030-5bee5cf5-79c9-483e-a2de-983fe9ea884e.png)
+
+We can use this command to execute the specified recipe found by the upon command. </br>
+
+```sh
 bitbake [recipe]
 ```
-... </br>
-
-![Screen Shot 2022-06-19 at 1 10 50 PM](https://user-images.githubusercontent.com/67073582/174466913-b0454124-394c-4825-9f0a-7dffe0764138.png)
+![Screen Shot 2022-06-19 at 1 27 31 PM](https://user-images.githubusercontent.com/67073582/174467233-b39475b8-8fb5-446d-af2b-1b0bdadaa9af.png)
 
 ## Run QEMU
 ```sh
