@@ -46,6 +46,17 @@ bitbake [recipe]
 ```
 ... </br>
 
+![Screen Shot 2022-06-19 at 1 10 50 PM](https://user-images.githubusercontent.com/67073582/174466913-b0454124-394c-4825-9f0a-7dffe0764138.png)
+
+## Run QEMU
+```sh
+runqemu tmp/deploy/images/qemux86-64/bzImage-qemux86-64.bin
+```
+
+![Screen Shot 2022-06-19 at 10 34 20 AM](https://user-images.githubusercontent.com/67073582/174466862-00af12c4-87b1-4c94-bb2a-dc037253df43.png)
+
+![Screen Shot 2022-06-19 at 10 34 40 AM](https://user-images.githubusercontent.com/67073582/174466865-328c6fb2-aae6-41f0-8fca-0fe157905746.png)
+
 ## What is recipe?
 Recipes are denoted by the file extension .bb . </br>
 Each recipe implicitly inherits base.bbclass that has many tasks, and each task is similar to a function(). </br>
