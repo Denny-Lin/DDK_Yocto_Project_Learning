@@ -36,7 +36,7 @@ source oe-init-build-env
 
 ## Run BitBake
 ```sh
-bitbake core-image-sato
+bitbake <target>
 ```
 ![Screen Shot 2022-06-19 at 2 11 59 AM](https://user-images.githubusercontent.com/67073582/174451278-e5262ef2-7bbf-4c9f-aecc-5e101e9893a1.png)
 
@@ -52,7 +52,7 @@ bitbake -s
 We can use this command to execute the specified recipe found by the above command. </br>
 
 ```sh
-bitbake [recipe]
+bitbake <recipe>
 ```
 ![Screen Shot 2022-06-19 at 1 27 31 PM](https://user-images.githubusercontent.com/67073582/174467233-b39475b8-8fb5-446d-af2b-1b0bdadaa9af.png)
 
