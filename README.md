@@ -57,6 +57,8 @@ bitbake <recipe>
 ![Screen Shot 2022-06-19 at 1 27 31 PM](https://user-images.githubusercontent.com/67073582/174467233-b39475b8-8fb5-446d-af2b-1b0bdadaa9af.png)
 
 ## Run QEMU
+Now, let us test the image we built. </br>
+
 ```sh
 runqemu tmp/deploy/images/qemux86-64/bzImage-qemux86-64.bin
 ```
