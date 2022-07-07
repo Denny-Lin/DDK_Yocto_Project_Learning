@@ -72,8 +72,15 @@ Recipes are denoted by the file extension .bb . </br>
 Each recipe implicitly inherits base.bbclass that has many tasks, and each task is similar to a function(). </br>
 If we use bitbake to run all the recipes or specified recipe, the running recipe(s) will do all the tasks implemented by the base.bbclass. </br>
 Below are the default execution sequence of all the recipes: </br>
-1. do_
-2. do_
+1. do_fetch
+2. do_unpack
+3. do_patch
+4. do_configure
+5. do_compile
+6. do_install
+7. do_package
+8. do_rootfs
+9. do_image
 
 Otherwise, if we do not like the task made by default in base.bbclass, we can override or prohibit this task in our recipe. </br>
 Here is an example of .bb with overrided and prohibited tasks. </br>
